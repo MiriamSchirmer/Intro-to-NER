@@ -38,3 +38,12 @@ If you prefer to work locally, make sure to:
    `spaCy` and the small English model `en_core_web_sm`.
 
 2. Clone this repository.
+
+<br>
+
+## 🗂️ Data
+
+As a real-world use case, we analyze onlinen posts from an **Incel (Involuntary Celibates)** dataset (see corresponding [paper](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1383152/full)) that you can find in this file: `incel_comments.csv`.  
+This dataset helps demonstrate how spaCy can be adapted to detect *nonstandard language*, emerging online language and community specific slang.   
+Content warning: Incel terminology often contains misogynistic expressions and may reference sexual or gender-based violence.
+
