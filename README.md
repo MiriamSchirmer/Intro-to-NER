@@ -44,6 +44,6 @@ If you prefer to work locally, make sure to:
 ## 🗂️ Data
 
 As a real-world use case, we analyze onlinen posts from an **Incel (Involuntary Celibates)** dataset (see corresponding [paper](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1383152/full)) that you can find in this file: `incel_comments.csv`.  
-This dataset helps demonstrate how spaCy can be adapted to detect *nonstandard language*, emerging online language and community specific slang.   
+This dataset helps demonstrate how spaCy can be adapted to detect *nonstandard language*, i.e., emerging online language and community specific slang.   
 Content warning: Incel terminology often contains misogynistic expressions and may reference sexual or gender-based violence.
 
