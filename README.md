@@ -37,7 +37,7 @@ If you prefer to work locally, make sure to:
 1. Install the required libraries in your Python environment:  
    `spaCy` and the small English model `en_core_web_sm`.
 
-2. Clone this repository.
+2. Clone this repository for easy access or download the required files manually.
 
 <br>
 
