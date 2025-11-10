@@ -24,13 +24,13 @@ The main focus is on **understanding and customizing existing pipelines** rather
 
 You can run this tutorial in two ways:
 
-### 🤝 Option 1 — Google Colab (recommended)
+### Option 1: Google Colab (recommended)
 
 Simply open the provided `.ipynb` notebook in Google Colab and run all cells sequentially.  
 All required libraries are pre-installed in the Colab environment.
 
 
-### 💻 Option 2 — Run Locally
+### Option 2: Run Locally
 
 If you prefer to work locally, make sure to:
 
